@@ -1,0 +1,35 @@
+header .clients .line {
+  display: none;
+}
+.clients .block {
+  font-size: 35px;
+}
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.col-md-5 {
+  display: none;
+}
+.col-md-7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.bisness .expand {
+  font-size: 35px;
+}
+.img_alan .hexigon-footer {
+  display: none;
+}

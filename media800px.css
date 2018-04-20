@@ -1,0 +1,15 @@
+header .logo {
+  display: none;
+}
+.receive .tab .tab1 {
+  width: 140px;
+  height: 160px;
+  margin: 0px;
+}
+.tab1 .box {
+  display: none;
+}
+.receive .slider2 {
+  padding-top: 10px;
+  padding-bottom: 6px;
+}

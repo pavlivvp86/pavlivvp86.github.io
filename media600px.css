@@ -1,0 +1,46 @@
+.topmenu {
+  padding-top: 20px;
+}
+li {
+  width: 200px;
+  padding: 10px 0px;
+  display: block;
+  text-align: center;
+}
+li:hover {
+  border: 2px solid #fc635e;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+}
+.topmenu li a:hover {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.01);
+}
+.clients {
+  padding-top: 100px;
+}
+.clients .block {
+  font-size: 28px;
+  text-align: center;
+}
+.receive .what {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.01);
+  padding-top: 20px;
+  text-decoration: underline;
+}
+.receive .what2 {
+  line-height: 130%;
+  margin-bottom: 10px;
+  height: 120px;
+  width: 310px;
+}
+.receive .slider2 {
+  padding-top: 0px;
+  padding-bottom: 6px;
+}
+.bisness .expand {
+  font-size: 28px;
+}
+.box2 {
+  height: 120px;
+  width: 310px;
+}
